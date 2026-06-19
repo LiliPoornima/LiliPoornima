@@ -37,13 +37,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lilipoornima&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -111,16 +104,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lilipoornima/lilipoornima/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> ⚠️ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
